@@ -3,6 +3,7 @@
 ### row_data
 
 The folder **row_data** contains unaltered answers to the three surveys. Columns containing information revealing the survey participants' personal data and identity were removed from these datasets. 
+
 **Eco**, **ocean** and **soc** in the names of all files stand for economics, oceanography and sociology. 
 
 ### analysis
