@@ -10,8 +10,8 @@ authors:
  - family-names: "Peters"
   given-names: "Isabella"
 title: "The Emergence of Preprints: Comparing Publishing Behaviour in the Global South and the Global North"
-journal: "Online Information Review"
-identifiers:
-  - type: doi
-    value: 10.1108/OIR-04-2023-0181
+doi: 10.1108/OIR-04-2023-0181
 date-released: 2024-01-15
+url: "https://doi.org/10.1108/OIR-04-2023-0181"
+
+
